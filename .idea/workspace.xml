@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/HotelBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/LibraryBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,25 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AverageOfThreeNumbers.executor": "Run",
-    "Application.CelsiusToFahrenheit.executor": "Run",
-    "Application.Demo1.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.PerimeterOfRectangle.executor": "Run",
-    "Application.PowerCalculation.executor": "Run",
-    "Application.SumOfTwoNumbers.executor": "Run",
-    "Application.WelcomeToBridgelabz.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "methods",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/prashantsharma/Bridgelabz-Training-1Y",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AverageOfThreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerimeterOfRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WelcomeToBridgelabz.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;methods&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prashantsharma/Bridgelabz-Training-1Y&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
