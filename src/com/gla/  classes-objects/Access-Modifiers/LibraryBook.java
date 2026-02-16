@@ -22,6 +22,8 @@ public class LibraryBook {
         }
     }
 
+
+
     public void display() {
         System.out.println(title + " " + author + " " + price + " " + available);
     }
