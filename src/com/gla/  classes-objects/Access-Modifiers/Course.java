@@ -22,6 +22,8 @@ public class Course {
         instituteName = newName;
     }
 
+
+    
     public static void main(String[] args) {
 
         Course c1 = new Course("Java", 6, 5000);
