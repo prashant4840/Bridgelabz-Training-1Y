@@ -21,9 +21,6 @@ public class HotelBooking {
         this.roomType = h.roomType;
         this.nights = h.nights;
     }
-
-
-
     public void display() {
         System.out.println(guestName + " " + roomType + " " + nights);
     }

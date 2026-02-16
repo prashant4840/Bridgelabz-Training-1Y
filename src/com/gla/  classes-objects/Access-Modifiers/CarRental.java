@@ -17,8 +17,6 @@ public class CarRental {
         this.rentalDays = rentalDays;
     }
 
-
-
     public double calculateCost() {
         return rentalDays * ratePerDay;
     }

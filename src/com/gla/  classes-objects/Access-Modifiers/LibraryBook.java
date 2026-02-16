@@ -21,9 +21,6 @@ public class LibraryBook {
             System.out.println("Not Available");
         }
     }
-
-
-
     public void display() {
         System.out.println(title + " " + author + " " + price + " " + available);
     }

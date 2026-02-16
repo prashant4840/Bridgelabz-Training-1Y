@@ -12,8 +12,6 @@ public class Book {
         this.price = 0;
     }
 
-
-
     public Book(String title, String author, double price) {
         this.title = title;
         this.author = author;
