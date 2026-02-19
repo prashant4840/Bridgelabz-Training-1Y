@@ -16,7 +16,6 @@ class Vehicle {
     }
 }
 
-
 class Car extends Vehicle {
 
     int seatCapacity;
