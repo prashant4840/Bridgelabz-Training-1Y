@@ -4,7 +4,6 @@
         super(id, name, price);
     }
 
-
     @Override
     public double calculateDiscount() {
         return getPrice() * 0.15;   
@@ -21,4 +20,5 @@
     public String getTaxDetails() {
         return "Clothing Tax: 5%";
     }
+    
 }

@@ -5,9 +5,9 @@
     }
 
 
+    
     @Override
     public double calculateDiscount() {
         return getPrice() * 0.05;   
     }
-    
 }

@@ -10,7 +10,6 @@
         return getPrice() * 0.10;  
     }
 
-
     @Override
     public double calculateTax() {
         return getPrice() * 0.18; 
@@ -20,4 +19,5 @@
     public String getTaxDetails() {
         return "Electronics Tax: 18% GST";
     }
+    
 }

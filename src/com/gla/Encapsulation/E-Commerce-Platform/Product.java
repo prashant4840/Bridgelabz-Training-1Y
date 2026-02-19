@@ -33,12 +33,10 @@ abstract class Product {
         this.name = name;
     }
 
-
     public double getPrice() {
         return price;
     }
 
-    
     public void setPrice(double price) {
         if (price < 0)
             throw new IllegalArgumentException("Price cannot be negative");
@@ -48,10 +46,10 @@ abstract class Product {
    
     public abstract double calculateDiscount();
 
-   
     public void getProductDetails() {
         System.out.println("Product ID : " + productId);
         System.out.println("Name       : " + name);
         System.out.println("Price      : " + price);
     }
+    
 }

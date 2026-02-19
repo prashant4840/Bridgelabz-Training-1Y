@@ -13,9 +13,7 @@ public class ECommerceSystem {
 
         for (Product p : products) {
 
-            
             p.getProductDetails();
-
 
             double tax = 0;
             if (p instanceof Taxable) {
@@ -31,5 +29,7 @@ public class ECommerceSystem {
             System.out.println("Final Price : " + finalPrice);
             System.out.println("---------------------------");
         }
+
     }
+    
 }
