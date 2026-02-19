@@ -7,11 +7,13 @@
         this.consultationFee = consultationFee;
     }
 
+
     @Override
     public double calculateBill() {
         return consultationFee;
     }
 
+    
     @Override
     public void addRecord(String diagnosis) {
         setDiagnosis(diagnosis);

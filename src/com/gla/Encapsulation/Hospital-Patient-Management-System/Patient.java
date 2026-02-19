@@ -56,10 +56,10 @@ abstract class Patient {
         return diagnosis;
     }
 
-    // -------- Abstract behaviour --------
+
     public abstract double calculateBill();
 
-    // -------- Concrete behaviour --------
+    
     public void getPatientDetails() {
         System.out.println("Patient ID : " + patientId);
         System.out.println("Name       : " + name);

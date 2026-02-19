@@ -7,6 +7,7 @@ public class HospitalManagementSystem {
 
         List<Patient> patients = new ArrayList<>();
 
+        
         InPatient p1 = new InPatient(101, "Rahul", 30, 5, 2000);
         OutPatient p2 = new OutPatient(102, "Priya", 25, 500);
 
@@ -15,6 +16,7 @@ public class HospitalManagementSystem {
 
         patients.add(p1);
         patients.add(p2);
+
 
         for (Patient p : patients) {
 

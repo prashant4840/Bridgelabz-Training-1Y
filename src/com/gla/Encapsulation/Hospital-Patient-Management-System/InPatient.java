@@ -3,6 +3,7 @@
     private int daysAdmitted;
     private double dailyCharge;
 
+
     public InPatient(int id, String name, int age,
                      int daysAdmitted, double dailyCharge) {
         super(id, name, age);
@@ -10,6 +11,7 @@
         this.dailyCharge = dailyCharge;
     }
 
+    
     @Override
     public double calculateBill() {
         return daysAdmitted * dailyCharge;
