@@ -10,9 +10,11 @@ abstract class Vehicle {
         setRatePerKm(ratePerKm);
     }
 
+    
     public String getVehicleId() {
         return vehicleId;
     }
+
 
     public void setVehicleId(String vehicleId) {
         if (vehicleId == null || vehicleId.isEmpty())

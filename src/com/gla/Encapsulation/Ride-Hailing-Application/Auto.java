@@ -12,10 +12,12 @@ class Auto extends Vehicle implements GPS {
         return getRatePerKm() * distance + 20; 
     }
 
+
     @Override
     public String getCurrentLocation() {
         return location;
     }
+
 
     @Override
     public void updateLocation(String location) {

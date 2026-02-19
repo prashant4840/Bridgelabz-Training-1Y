@@ -12,11 +12,13 @@ class Car extends Vehicle implements GPS {
         return getRatePerKm() * distance;
     }
 
+
     @Override
     public String getCurrentLocation() {
         return location;
     }
 
+    
     @Override
     public void updateLocation(String location) {
         this.location = location;

@@ -12,11 +12,13 @@ class Bike extends Vehicle implements GPS {
         return getRatePerKm() * distance * 0.9; 
     }
 
+
     @Override
     public String getCurrentLocation() {
         return location;
     }
 
+    
     @Override
     public void updateLocation(String location) {
         this.location = location;
