@@ -4,13 +4,14 @@ public class Library {
    private int quantity;
    private Admin admin ;
 
-
     private LibraryRepositories libraryRepositories = new LibraryRepositories();
+
 
     public int getQuantity() {
         return quantity;
     }
 
+    
     public void setQuantity(int quantity) {
         this.quantity = quantity;
     }

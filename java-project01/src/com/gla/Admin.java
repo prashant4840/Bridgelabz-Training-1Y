@@ -10,4 +10,5 @@ public class Admin extends Person{
     public void setDepartment(String department) {
         this.department = department;
     }
+    
 }
