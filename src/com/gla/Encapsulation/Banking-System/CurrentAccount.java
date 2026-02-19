@@ -7,11 +7,13 @@ class CurrentAccount extends BankAccount implements Loanable {
         super(accNo, name, balance);
     }
 
+
     @Override
     public double calculateInterest() {
         return getBalance() * INTEREST_RATE;
     }
 
+    
     @Override
     public void applyForLoan(double amount) {
         loanAmount = amount;

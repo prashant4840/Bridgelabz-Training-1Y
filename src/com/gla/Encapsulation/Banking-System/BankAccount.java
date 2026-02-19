@@ -1,6 +1,3 @@
- /**
- * Abstract base class for bank accounts.
- */
 abstract class BankAccount {
 
     private String accountNumber;
@@ -13,7 +10,6 @@ abstract class BankAccount {
         setBalance(balance);
     }
 
-    // -------- Encapsulation with validation --------
 
     public String getAccountNumber() {
         return accountNumber;
@@ -45,7 +41,6 @@ abstract class BankAccount {
         this.balance = balance;
     }
 
-    // -------- Concrete methods --------
 
     public void deposit(double amount) {
         if (amount <= 0)
@@ -59,10 +54,8 @@ abstract class BankAccount {
         balance -= amount;
     }
 
-    // -------- Abstract method --------
     public abstract double calculateInterest();
 
-    // -------- Utility --------
     public void displayAccountDetails() {
         System.out.println("Account No : " + accountNumber);
         System.out.println("Holder     : " + holderName);

@@ -7,10 +7,12 @@
         super(accNo, name, balance);
     }
 
+    
     @Override
     public double calculateInterest() {
         return getBalance() * INTEREST_RATE;
     }
+
 
     @Override
     public void applyForLoan(double amount) {
