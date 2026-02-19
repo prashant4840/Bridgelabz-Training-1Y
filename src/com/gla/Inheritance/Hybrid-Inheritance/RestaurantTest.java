@@ -20,7 +20,6 @@ class Person {
     }
 }
 
-
 class Chef extends Person implements Worker {
 
     Chef(String name, int id) {
