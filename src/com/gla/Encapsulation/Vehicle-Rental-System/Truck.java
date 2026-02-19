@@ -7,7 +7,6 @@
         this.insurancePolicyNumber = policyNo;
     }
     
-
     @Override
     public double calculateRentalCost(int days) {
         return getRentalRate() * days * 1.2;   
@@ -22,4 +21,5 @@
     public String getInsuranceDetails() {
         return "Truck Insurance Policy: " + insurancePolicyNumber;
     }
+    
 }

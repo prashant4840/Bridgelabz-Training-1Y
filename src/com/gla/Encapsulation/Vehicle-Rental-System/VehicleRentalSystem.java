@@ -11,9 +11,7 @@ public class VehicleRentalSystem {
         vehicles.add(new Bike("UP32CD5678", 800, "BIKE456"));
         vehicles.add(new Truck("UP32EF9012", 5000, "TRUCK789"));
 
-
         int days = 5;
-
         
         for (Vehicle v : vehicles) {
 
@@ -28,5 +26,7 @@ public class VehicleRentalSystem {
 
             System.out.println("-----------------------------");
         }
+
     }
+    
 }

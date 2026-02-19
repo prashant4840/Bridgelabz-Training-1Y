@@ -8,6 +8,7 @@
     }
 
     
+    
     @Override
     public double calculateRentalCost(int days) {
         return getRentalRate() * days;

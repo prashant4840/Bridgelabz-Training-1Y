@@ -55,4 +55,5 @@ abstract class Vehicle {
         System.out.println("Type           : " + type);
         System.out.println("Rate per day   : " + rentalRate);
     }
+    
 }

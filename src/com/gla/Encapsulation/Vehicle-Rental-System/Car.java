@@ -13,9 +13,10 @@
     }
 
     
+    
     @Override
     public double calculateInsurance() {
-        return getRentalRate() * 0.10;   // 10% insurance
+        return getRentalRate() * 0.10;  
     }
 
     @Override
