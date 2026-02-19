@@ -11,8 +11,6 @@ abstract class Employee {
         setBaseSalary(baseSalary);
     }
 
-   
-
     public int getEmployeeId() {
         return employeeId;
     }
@@ -23,9 +21,11 @@ abstract class Employee {
         this.employeeId = employeeId;
     }
 
+
     public String getName() {
         return name;
     }
+
 
     public void setName(String name) {
         if (name == null || name.trim().isEmpty())

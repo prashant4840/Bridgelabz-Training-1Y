@@ -11,9 +11,11 @@
         setHourlyRate(hourlyRate);
     }
 
+    
     public int getHoursWorked() {
         return hoursWorked;
     }
+
 
     public void setHoursWorked(int hoursWorked) {
         if (hoursWorked < 0)

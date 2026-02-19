@@ -8,16 +8,18 @@ public class EmployeeManagementSystem {
 
         List<Employee> employees = new ArrayList<>();
 
+        
         FullTimeEmployee full = new FullTimeEmployee(101, "Rahul", 50000, 10000);
         full.assignDepartment("IT");
+
 
         PartTimeEmployee part = new PartTimeEmployee(102, "Priya", 20000, 40, 300);
         part.assignDepartment("HR");
 
+
         employees.add(full);
         employees.add(part);
 
-      
         for (Employee emp : employees) {
 
             emp.displayDetails();

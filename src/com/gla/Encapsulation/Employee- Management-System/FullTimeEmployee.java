@@ -8,9 +8,11 @@ class FullTimeEmployee extends Employee implements Department {
         setFixedBonus(fixedBonus);
     }
 
+
     public double getFixedBonus() {
         return fixedBonus;
     }
+
 
     public void setFixedBonus(double fixedBonus) {
         if (fixedBonus < 0)
@@ -18,6 +20,7 @@ class FullTimeEmployee extends Employee implements Department {
         this.fixedBonus = fixedBonus;
     }
 
+    
     @Override
     public double calculateSalary() {
         return getBaseSalary() + fixedBonus;
