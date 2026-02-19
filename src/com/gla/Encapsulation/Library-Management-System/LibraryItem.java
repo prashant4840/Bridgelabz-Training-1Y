@@ -4,7 +4,6 @@ abstract class LibraryItem {
     private String title;
     private String author;
 
-    
     private String borrowerName;
     private boolean available = true;
 
@@ -14,9 +13,11 @@ abstract class LibraryItem {
         setAuthor(author);
     }
     
+    
     public int getItemId() {
         return itemId;
     }
+
 
     public void setItemId(int itemId) {
         if (itemId <= 0)

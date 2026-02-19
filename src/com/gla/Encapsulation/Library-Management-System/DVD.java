@@ -9,7 +9,6 @@
     public int getLoanDuration() {
         return 3;   
     }
-
     
     @Override
     public void reserveItem(String borrowerName) {
@@ -19,6 +18,7 @@
         }
     }
 
+    
     @Override
     public boolean checkAvailability() {
         return isAvailable();

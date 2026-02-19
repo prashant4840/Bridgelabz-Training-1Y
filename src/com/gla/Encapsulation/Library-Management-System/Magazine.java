@@ -10,7 +10,6 @@
         return 7;  
     }
 
-
     @Override
     public void reserveItem(String borrowerName) {
         if (isAvailable()) {
@@ -18,6 +17,7 @@
             setAvailable(false);
         }
     }
+
 
     @Override
     public boolean checkAvailability() {

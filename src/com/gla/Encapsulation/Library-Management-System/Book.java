@@ -4,12 +4,10 @@
         super(id, title, author);
     }
 
-
     @Override
     public int getLoanDuration() {
         return 14;   
     }
-
     
     @Override
     public void reserveItem(String borrowerName) {
@@ -19,6 +17,7 @@
         }
     }
 
+    
     @Override
     public boolean checkAvailability() {
         return isAvailable();
