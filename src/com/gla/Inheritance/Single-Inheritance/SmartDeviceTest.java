@@ -16,7 +16,6 @@ class Device {
     }
 }
 
-
 class Thermostat extends Device {
 
     double temperatureSetting;
