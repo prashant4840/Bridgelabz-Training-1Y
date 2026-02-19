@@ -11,11 +11,13 @@
     }
 
 
+
     @Override
     public double applyDiscount() {
         return calculateTotalPrice() * 0.05;  
     }
 
+    
     @Override
     public String getDiscountDetails() {
         return "Veg Discount: 5%";

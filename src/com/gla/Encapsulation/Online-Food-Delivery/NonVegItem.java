@@ -8,10 +8,12 @@
         super(name, price, quantity);
     }
 
+    
     @Override
     public double calculateTotalPrice() {
         return (getPrice() * getQuantity()) + EXTRA_CHARGE;
     }
+
 
     @Override
     public double applyDiscount() {

@@ -10,10 +10,12 @@ abstract class FoodItem {
         setQuantity(quantity);
     }
 
+
     public String getItemName() {
         return itemName;
     }
 
+    
     public void setItemName(String itemName) {
         if (itemName == null || itemName.isEmpty())
             throw new IllegalArgumentException("Invalid item name");
