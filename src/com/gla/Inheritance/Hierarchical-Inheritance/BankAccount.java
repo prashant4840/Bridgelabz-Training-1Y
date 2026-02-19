@@ -10,7 +10,6 @@ class BankAccount {
     }
 }
 
-
 class SavingsAccount extends BankAccount {
     double interestRate;
 
