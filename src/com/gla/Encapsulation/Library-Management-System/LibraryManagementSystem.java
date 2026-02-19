@@ -11,7 +11,6 @@ public class LibraryManagementSystem {
         items.add(new Magazine(102, "Tech Monthly", "Editor Team"));
         items.add(new DVD(103, "Inception", "Christopher Nolan"));
 
-        // Reserve one item
         Reservable r = (Reservable) items.get(0);
         r.reserveItem("Rahul");
 

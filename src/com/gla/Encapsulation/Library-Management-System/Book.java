@@ -4,11 +4,13 @@
         super(id, title, author);
     }
 
+
     @Override
     public int getLoanDuration() {
-        return 14;   // 14 days
+        return 14;   
     }
 
+    
     @Override
     public void reserveItem(String borrowerName) {
         if (isAvailable()) {

@@ -1,13 +1,10 @@
- /**
- * Abstract base class for all library items.
- */
 abstract class LibraryItem {
 
     private int itemId;
     private String title;
     private String author;
 
-    // Sensitive borrower data (encapsulated)
+    
     private String borrowerName;
     private boolean available = true;
 
@@ -16,9 +13,7 @@ abstract class LibraryItem {
         setTitle(title);
         setAuthor(author);
     }
-
-    // -------- Encapsulation with validation --------
-
+    
     public int getItemId() {
         return itemId;
     }
@@ -65,10 +60,10 @@ abstract class LibraryItem {
         return available;
     }
 
-    // -------- Abstract behaviour --------
+    
     public abstract int getLoanDuration();
 
-    // -------- Concrete behaviour --------
+    
     public void getItemDetails() {
         System.out.println("Item ID : " + itemId);
         System.out.println("Title   : " + title);
