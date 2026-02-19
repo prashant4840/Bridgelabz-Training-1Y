@@ -10,7 +10,6 @@ abstract class Vehicle {
         setRatePerKm(ratePerKm);
     }
 
-
     public String getVehicleId() {
         return vehicleId;
     }

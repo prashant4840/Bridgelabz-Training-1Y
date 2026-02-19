@@ -6,6 +6,7 @@ class Car extends Vehicle implements GPS {
         super(id, driver, rate);
     }
 
+    
     @Override
     public double calculateFare(double distance) {
         return getRatePerKm() * distance;

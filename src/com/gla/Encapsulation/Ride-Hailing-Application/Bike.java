@@ -6,6 +6,7 @@ class Bike extends Vehicle implements GPS {
         super(id, driver, rate);
     }
 
+    
     @Override
     public double calculateFare(double distance) {
         return getRatePerKm() * distance * 0.9; 

@@ -5,8 +5,10 @@ public class RideHailingApp {
 
     public static void main(String[] args) {
 
+
         List<Vehicle> rides = new ArrayList<>();
 
+        
         Car car = new Car("C101", "Rahul", 15);
         Bike bike = new Bike("B202", "Amit", 10);
         Auto auto = new Auto("A303", "Suresh", 12);
