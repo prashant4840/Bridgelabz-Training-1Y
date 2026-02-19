@@ -1,6 +1,3 @@
- /**
- * Abstract base class representing a food item.
- */
 abstract class FoodItem {
 
     private String itemName;
@@ -12,8 +9,6 @@ abstract class FoodItem {
         setPrice(price);
         setQuantity(quantity);
     }
-
-    // -------- Encapsulation with validation --------
 
     public String getItemName() {
         return itemName;

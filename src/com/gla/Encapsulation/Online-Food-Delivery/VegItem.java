@@ -4,14 +4,16 @@
         super(name, price, quantity);
     }
 
+    
     @Override
     public double calculateTotalPrice() {
         return getPrice() * getQuantity();
     }
 
+
     @Override
     public double applyDiscount() {
-        return calculateTotalPrice() * 0.05;   // 5% discount
+        return calculateTotalPrice() * 0.05;  
     }
 
     @Override

@@ -1,7 +1,9 @@
  class NonVegItem extends FoodItem implements Discountable {
+ 
 
-    private static final double EXTRA_CHARGE = 50;  // extra handling charge
+    private static final double EXTRA_CHARGE = 50;  
 
+    
     public NonVegItem(String name, double price, int quantity) {
         super(name, price, quantity);
     }
@@ -13,7 +15,7 @@
 
     @Override
     public double applyDiscount() {
-        return calculateTotalPrice() * 0.03;   // 3% discount
+        return calculateTotalPrice() * 0.03;  
     }
 
     @Override
