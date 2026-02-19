@@ -16,6 +16,7 @@ class Person {
     }
 }
 
+
 class Teacher extends Person {
 
     String subject;

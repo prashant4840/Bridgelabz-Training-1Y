@@ -16,6 +16,7 @@ class Course {
     }
 }
 
+
 class OnlineCourse extends Course {
 
     String platform;

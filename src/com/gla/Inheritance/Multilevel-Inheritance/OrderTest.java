@@ -15,6 +15,7 @@ class Order {
     }
 }
 
+
 class ShippedOrder extends Order {
 
     String trackingNumber;
