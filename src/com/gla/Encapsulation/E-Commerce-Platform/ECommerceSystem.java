@@ -13,7 +13,9 @@ public class ECommerceSystem {
 
         for (Product p : products) {
 
+            
             p.getProductDetails();
+
 
             double tax = 0;
             if (p instanceof Taxable) {

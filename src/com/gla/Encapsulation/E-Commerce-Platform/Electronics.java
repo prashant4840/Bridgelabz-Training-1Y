@@ -4,10 +4,12 @@
         super(id, name, price);
     }
 
+    
     @Override
     public double calculateDiscount() {
         return getPrice() * 0.10;  
     }
+
 
     @Override
     public double calculateTax() {
