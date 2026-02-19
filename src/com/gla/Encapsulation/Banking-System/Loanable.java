@@ -1,3 +1,4 @@
+
 interface Loanable {
 
     void applyForLoan(double amount);

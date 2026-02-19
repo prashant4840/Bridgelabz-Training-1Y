@@ -4,6 +4,7 @@ abstract class BankAccount {
     private String holderName;
     private double balance;
 
+
     public BankAccount(String accountNumber, String holderName, double balance) {
         setAccountNumber(accountNumber);
         setHolderName(holderName);
@@ -61,4 +62,5 @@ abstract class BankAccount {
         System.out.println("Holder     : " + holderName);
         System.out.println("Balance    : " + balance);
     }
+    
 }

@@ -23,4 +23,5 @@ class CurrentAccount extends BankAccount implements Loanable {
     public boolean calculateLoanEligibility() {
         return getBalance() > loanAmount;
     }
+    
 }

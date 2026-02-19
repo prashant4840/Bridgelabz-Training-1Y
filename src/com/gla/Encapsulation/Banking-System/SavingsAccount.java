@@ -23,4 +23,5 @@
     public boolean calculateLoanEligibility() {
         return getBalance() > loanAmount * 0.5;
     }
+    
 }
