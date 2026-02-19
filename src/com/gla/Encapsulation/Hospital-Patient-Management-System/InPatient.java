@@ -26,4 +26,5 @@
     public void viewRecords() {
         System.out.println("Diagnosis : " + getDiagnosis());
     }
+    
 }

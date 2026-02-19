@@ -1,22 +1,17 @@
- /**
- * Abstract base class representing a patient.
- */
 abstract class Patient {
 
     private int patientId;
     private String name;
     private int age;
 
-    // Sensitive medical data (encapsulated)
     private String diagnosis;
 
+    
     public Patient(int patientId, String name, int age) {
         setPatientId(patientId);
         setName(name);
         setAge(age);
     }
-
-    // -------- Encapsulation with validation --------
 
     public int getPatientId() {
         return patientId;
@@ -56,10 +51,8 @@ abstract class Patient {
         return diagnosis;
     }
 
-
     public abstract double calculateBill();
 
-    
     public void getPatientDetails() {
         System.out.println("Patient ID : " + patientId);
         System.out.println("Name       : " + name);

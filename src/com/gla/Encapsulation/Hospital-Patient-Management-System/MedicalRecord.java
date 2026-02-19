@@ -1,3 +1,4 @@
+
 interface MedicalRecord {
 
     void addRecord(String diagnosis);
