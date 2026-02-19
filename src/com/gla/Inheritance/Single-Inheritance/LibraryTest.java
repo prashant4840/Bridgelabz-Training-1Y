@@ -11,7 +11,6 @@ class Book {
     }
 }
 
-
 class Author extends Book {
 
     String name;
