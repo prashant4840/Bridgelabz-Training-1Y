@@ -20,7 +20,6 @@ class Vehicle {
     }
 }
 
-
 class ElectricVehicle extends Vehicle {
 
     ElectricVehicle(int maxSpeed, String model) {
