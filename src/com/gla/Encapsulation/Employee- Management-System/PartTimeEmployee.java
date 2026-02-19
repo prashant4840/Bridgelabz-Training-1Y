@@ -10,12 +10,10 @@
         setHoursWorked(hoursWorked);
         setHourlyRate(hourlyRate);
     }
-
     
     public int getHoursWorked() {
         return hoursWorked;
     }
-
 
     public void setHoursWorked(int hoursWorked) {
         if (hoursWorked < 0)
@@ -47,4 +45,5 @@
     public String getDepartmentDetails() {
         return "Department : " + department;
     }
+    
 }

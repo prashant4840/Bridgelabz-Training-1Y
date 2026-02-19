@@ -4,7 +4,6 @@ abstract class Employee {
     private String name;
     private double baseSalary;
 
-   
     public Employee(int employeeId, String name, double baseSalary) {
         setEmployeeId(employeeId);
         setName(name);
@@ -26,7 +25,6 @@ abstract class Employee {
         return name;
     }
 
-
     public void setName(String name) {
         if (name == null || name.trim().isEmpty())
             throw new IllegalArgumentException("Name cannot be empty");
@@ -42,14 +40,13 @@ abstract class Employee {
             throw new IllegalArgumentException("Salary cannot be negative");
         this.baseSalary = baseSalary;
     }
-
    
     public abstract double calculateSalary();
 
-   
     public void displayDetails() {
         System.out.println("Employee ID : " + employeeId);
         System.out.println("Name        : " + name);
         System.out.println("Base Salary : " + baseSalary);
     }
+    
 }

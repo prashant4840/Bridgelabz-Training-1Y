@@ -8,18 +8,15 @@ class FullTimeEmployee extends Employee implements Department {
         setFixedBonus(fixedBonus);
     }
 
-
     public double getFixedBonus() {
         return fixedBonus;
     }
-
 
     public void setFixedBonus(double fixedBonus) {
         if (fixedBonus < 0)
             throw new IllegalArgumentException("Bonus cannot be negative");
         this.fixedBonus = fixedBonus;
     }
-
     
     @Override
     public double calculateSalary() {
@@ -35,4 +32,5 @@ class FullTimeEmployee extends Employee implements Department {
     public String getDepartmentDetails() {
         return "Department : " + department;
     }
+    
 }
