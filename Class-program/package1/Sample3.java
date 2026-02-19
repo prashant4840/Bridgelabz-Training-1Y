@@ -1,6 +1,8 @@
 package com.gla.package1;
 
+
 public class Sample3 {
+
 //    System.out.println(Sample1.varB);
 //    Sample1 obj = new Sample1();
 //    System.out.println(obj.varA);
