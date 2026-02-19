@@ -19,7 +19,6 @@ class Employee {
     }
 }
 
-
 class Manager extends Employee {
 
     int teamSize;
