@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/src/com/gla/SavingsAccount.java" afterDir="false" />
-    </list>
+    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
