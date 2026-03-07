@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/ConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/ConversionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/DateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/PasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/PasswordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/DataExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/DataExporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/PaymentProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/VehicleDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Default Methods in Interfaces/VehicleDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Functional Interfaces/StringLengthChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Functional Interfaces/StringLengthChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
