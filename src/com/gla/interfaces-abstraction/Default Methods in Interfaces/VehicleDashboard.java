@@ -1,4 +1,5 @@
 package com.gla.interfaces-abstraction;
+
 interface VehicleDashboard {
 
     void displaySpeed();
