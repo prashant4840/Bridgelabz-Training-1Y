@@ -9,3 +9,4 @@ class CurrentAccount extends Account {
         return balance * 0.02;
     }
 }
+

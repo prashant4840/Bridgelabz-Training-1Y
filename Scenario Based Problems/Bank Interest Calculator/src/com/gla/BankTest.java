@@ -10,3 +10,4 @@ public class BankTest {
         System.out.println("Current Interest: " + a2.calculateInterest());
     }
 }
+
