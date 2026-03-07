@@ -31,5 +31,4 @@ public class CarRental {
         CarRental c = new CarRental("Aman", "SUV", 5);
         c.display();
     }
-    
 }
