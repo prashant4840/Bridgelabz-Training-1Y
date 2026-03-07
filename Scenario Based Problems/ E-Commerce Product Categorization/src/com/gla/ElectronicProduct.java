@@ -12,3 +12,4 @@ class ElectronicProduct extends Product {
         return productName.contains(keyword) || brand.equalsIgnoreCase(keyword);
     }
 }
+
