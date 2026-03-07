@@ -9,6 +9,7 @@ interface PaymentProcessor {
     }
 }
 
+
 class PayPal implements PaymentProcessor {
 
     public void processPayment(double amount) {
