@@ -1,6 +1,4 @@
 package com.gla.interfaces-abstraction;
-
-
 interface RentalVehicle {
     void rent();
     void returnVehicle();
