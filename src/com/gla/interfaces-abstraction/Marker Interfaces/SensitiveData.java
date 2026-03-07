@@ -6,8 +6,6 @@ class CreditCardInfo implements SensitiveData {
     String cardNumber = "1234-5678-9012";
 }
 
-
-
 class EncryptionService {
 
     public static void process(Object obj) {
@@ -18,4 +16,5 @@ class EncryptionService {
             System.out.println("Normal processing");
         }
     }
+
 }
