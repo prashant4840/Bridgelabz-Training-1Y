@@ -7,6 +7,7 @@ class CreditCardInfo implements SensitiveData {
 }
 
 
+
 class EncryptionService {
 
     public static void process(Object obj) {
