@@ -8,8 +8,6 @@ interface SecurityUtils {
                 password.matches(".*[0-9].*");
     }
 }
-
-
 public class PasswordTest {
     public static void main(String[] args) {
 
