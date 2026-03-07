@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/ConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/ConversionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/PasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/interfaces-abstraction/Static Methods in Interfaces/PasswordTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
