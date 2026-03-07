@@ -25,4 +25,5 @@ public class MovieTicket {
         t.bookTicket("Avengers", 15, 250);
         t.display();
     }
+
 }
