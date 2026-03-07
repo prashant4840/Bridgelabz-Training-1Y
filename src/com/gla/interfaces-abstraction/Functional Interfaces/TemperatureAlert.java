@@ -10,4 +10,5 @@ public class TemperatureAlert {
         System.out.println(alert.test(36.5));
         System.out.println(alert.test(38.2));
     }
+
 }
