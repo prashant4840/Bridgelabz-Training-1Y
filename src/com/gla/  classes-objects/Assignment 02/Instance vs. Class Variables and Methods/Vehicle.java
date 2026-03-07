@@ -22,8 +22,6 @@ public class Vehicle {
 
     public static void main(String[] args) {
 
-
-
         Vehicle v = new Vehicle("Aman", "Car");
         v.displayVehicleDetails();
 
