@@ -1,5 +1,4 @@
 package com.gla.interfaces-abstraction;
-
 interface PaymentProcessor {
 
     void processPayment(double amount);
@@ -8,8 +7,6 @@ interface PaymentProcessor {
         System.out.println("Refund of ₹" + amount + " processed");
     }
 }
-
-
 class PayPal implements PaymentProcessor {
 
     public void processPayment(double amount) {

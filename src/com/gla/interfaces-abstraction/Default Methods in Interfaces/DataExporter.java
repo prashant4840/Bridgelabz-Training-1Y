@@ -1,5 +1,4 @@
 package com.gla.interfaces-abstraction;
-
 interface DataExporter {
 
     void exportCSV();
@@ -9,8 +8,6 @@ interface DataExporter {
         System.out.println("Exporting data to JSON format");
     }
 }
-
-
 class ReportExporter implements DataExporter {
 
     public void exportCSV() {
@@ -21,3 +18,4 @@ class ReportExporter implements DataExporter {
         System.out.println("Exporting PDF...");
     }
 }
+

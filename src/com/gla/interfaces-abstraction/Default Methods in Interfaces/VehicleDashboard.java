@@ -1,5 +1,4 @@
 package com.gla.interfaces-abstraction;
-
 interface VehicleDashboard {
 
     void displaySpeed();
@@ -8,7 +7,6 @@ interface VehicleDashboard {
         System.out.println("Battery percentage: 80%");
     }
 }
-
 
 class ElectricVehicle implements VehicleDashboard {
 
