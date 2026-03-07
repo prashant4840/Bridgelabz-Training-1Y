@@ -9,6 +9,7 @@ interface VehicleDashboard {
     }
 }
 
+
 class ElectricVehicle implements VehicleDashboard {
 
     public void displaySpeed() {
