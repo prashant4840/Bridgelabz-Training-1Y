@@ -10,7 +10,6 @@ public class Person {
         this.age = age;
     }
 
-
     public Person(Person p) {
         this.name = p.name;
         this.age = p.age;
