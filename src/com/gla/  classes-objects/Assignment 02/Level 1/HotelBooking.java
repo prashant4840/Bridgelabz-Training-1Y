@@ -35,5 +35,4 @@ public class HotelBooking {
         h2.display();
         h3.display();
     }
-    
 }
