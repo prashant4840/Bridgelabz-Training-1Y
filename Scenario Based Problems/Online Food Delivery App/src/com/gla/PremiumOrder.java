@@ -10,3 +10,4 @@ class PremiumOrder extends Order {
         return (baseAmount - discount) + deliveryCharge;
     }
 }
+

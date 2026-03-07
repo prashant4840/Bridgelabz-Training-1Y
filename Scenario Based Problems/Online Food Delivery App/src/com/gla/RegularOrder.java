@@ -9,3 +9,4 @@ class RegularOrder extends Order {
         return baseAmount + deliveryCharge;
     }
 }
+
