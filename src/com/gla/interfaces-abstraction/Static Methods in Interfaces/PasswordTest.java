@@ -9,6 +9,7 @@ interface SecurityUtils {
     }
 }
 
+
 public class PasswordTest {
     public static void main(String[] args) {
 
