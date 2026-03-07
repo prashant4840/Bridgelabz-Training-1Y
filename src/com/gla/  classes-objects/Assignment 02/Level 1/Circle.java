@@ -24,5 +24,4 @@ public class Circle {
         c1.display();
         c2.display();
     }
-    
 }
