@@ -6,6 +6,35 @@
   <component name="ChangeListManager">
     <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/ElectronicProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/ProductTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/CurrentAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Bank Interest Calculator/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Employee Management System/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Employee Management System/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Employee Management System/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Mobile Phone Contact App/BusinessContact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Mobile Phone Contact App/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Mobile Phone Contact App/ContactTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Food Delivery App/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Food Delivery App/OrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Food Delivery App/PremiumOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Food Delivery App/RegularOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Learning Platform/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Learning Platform/CourseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Learning Platform/LiveCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Online Learning Platform/RecordedCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Smart Library System/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Smart Library System/LibraryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Smart Library System/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Smart Library System/TextBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Student Result System/EngineeringStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Student Result System/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/Student Result System/StudentTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +81,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RecentsManager">
