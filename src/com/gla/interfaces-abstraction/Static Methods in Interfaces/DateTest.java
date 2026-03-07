@@ -10,12 +10,11 @@ interface DateUtils {
         return date.format(formatter);
     }
 }
-
-
 public class DateTest {
     public static void main(String[] args) {
 
         System.out.println(DateUtils.formatDate(LocalDate.now(), "dd-MM-yyyy"));
         System.out.println(DateUtils.formatDate(LocalDate.now(), "yyyy/MM/dd"));
     }
+
 }
