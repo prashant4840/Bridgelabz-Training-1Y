@@ -1,6 +1,4 @@
 package com.gla.interfaces-abstraction;
-
-
 interface SmartDevice {
     void turnOn();
     void turnOff();
