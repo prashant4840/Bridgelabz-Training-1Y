@@ -10,4 +10,5 @@ public class StringLengthChecker {
         System.out.println(lengthChecker.apply("Hello"));
         System.out.println(lengthChecker.apply("This is a long message"));
     }
+    
 }
