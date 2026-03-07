@@ -1,5 +1,4 @@
 package com.gla.methods;
-
 public class Course {
 
     String courseName;
