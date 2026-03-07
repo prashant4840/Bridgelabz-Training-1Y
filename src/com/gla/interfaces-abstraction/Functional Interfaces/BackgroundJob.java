@@ -10,5 +10,4 @@ public class BackgroundJob {
         Thread thread = new Thread(job);
         thread.start();
     }
-
 }
