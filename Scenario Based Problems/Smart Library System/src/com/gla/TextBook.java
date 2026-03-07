@@ -9,3 +9,4 @@ class TextBook extends Book {
         return daysLate * 2;
     }
 }
+

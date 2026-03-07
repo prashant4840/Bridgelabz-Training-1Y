@@ -17,3 +17,4 @@ class Book {
         return 0;
     }
 }
+
