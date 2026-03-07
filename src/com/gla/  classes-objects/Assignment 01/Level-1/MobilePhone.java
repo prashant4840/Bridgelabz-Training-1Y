@@ -14,7 +14,6 @@ public class MobilePhone {
 
     public static void main(String[] args) {
 
-
         MobilePhone m = new MobilePhone();
 
         m.brand = "Samsung";
