@@ -1,4 +1,5 @@
 package com.gla.interfaces-abstraction;
+
 interface PaymentProcessor {
 
     void processPayment(double amount);
