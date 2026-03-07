@@ -29,8 +29,6 @@ public class Product {
         p1.displayProductDetails();
         p2.displayProductDetails();
 
-
-
         Product.displayTotalProducts();
     }
 }
