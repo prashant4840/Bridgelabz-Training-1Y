@@ -6,8 +6,6 @@ class UserData implements BackupSerializable {
     String name = "Prashant";
 }
 
-
-
 class BackupProcessor {
 
     public static void backup(Object obj) {
