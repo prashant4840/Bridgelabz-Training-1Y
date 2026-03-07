@@ -16,3 +16,4 @@ class BusinessContact extends Contact {
         );
     }
 }
+
