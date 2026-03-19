@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="" />
+    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/CmdAruguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/IncrementDecrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/ScannerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class-program/package1/Sample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class-program/package1/Sample3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +54,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongTail.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -60,6 +72,34 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/gla/LibraryManagement" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArmstrongTail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongTail" />
+      <module name="Bridgelabz-Training-1Y" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.Main" />
+      <module name="Bridgelabz-Training-1Y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArmstrongTail" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
