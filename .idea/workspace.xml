@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/CelsiusToFahrenheit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/CelsiusToFahrenheit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/SumOfTwoNumbers.class" beforeDir="false" />
-    </list>
+    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prashant4840"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prashant4840/Bridgelabz-Training-1Y.git",
+    "accountId": "3d253d96-2f6e-4c20-b998-7abac72bc4e0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,7 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "programming-constructs",
+    "git-widget-placeholder": "multithreading",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/prashantsharma/Bridgelabz-Training-1Y"
   }
