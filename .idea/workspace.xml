@@ -6,6 +6,49 @@
   <component name="ChangeListManager">
     <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/OtherThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/ThirdThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/src/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/src/OtherThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class question/threads/src/ThirdThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Armstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongTail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/CmdAruguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/ScannerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package1/Sample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package1/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package2/Sample2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
