@@ -3,13 +3,14 @@ package com.gla;
 public class Main {
     public static void main(String[] args) {
 
-        Library library = new Library();
+        LibraryService service = new LibraryService();
 
+        Book book = new Book();
+        book.setTitle("Java Basics");
+        book.setCategory(Category.SCIENCE);
 
-        LibraryRepositories libraryRepositories = new LibraryRepositories();
-        Admin admin = new Admin();
-
-
+        service.addBook(book);
+        service.issueBook(book);
+        service.returnBook(book);
     }
-    
 }

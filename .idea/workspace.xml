@@ -5,50 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class question/threads in java/class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/OtherThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/erorr handlng/src/ThirdThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/src/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/src/OtherThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class question/threads/src/ThirdThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Armstrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongRecursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ArmstrongTail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/BMW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/abstraction/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/CmdAruguments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/IncrementDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/Loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/classwork/ScannerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package1/Sample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package1/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/com/gla/package2/Sample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC242.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC283.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/OtherThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ThirdThread.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,23 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongTail.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.ArmstrongRecursion.executor": "Run",
+    "Application.ArmstrongTail.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.com.gla.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/gla/LibraryManagement" />
