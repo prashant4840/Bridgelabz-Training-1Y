@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC242.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC283.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC344.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/LC58.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/OtherThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz-Training-1Y/ThirdThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-Management-System/src/com/gla/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Library-Management-System/src/com/gla/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +52,7 @@
     "Application.Armstrong.executor": "Run",
     "Application.ArmstrongRecursion.executor": "Run",
     "Application.ArmstrongTail.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Recursion.executor": "Run",
     "Application.com.gla.Main.executor": "Run",
@@ -68,6 +61,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "workshop",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -79,6 +73,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bridgelabz-Training-1Y" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstraction.Main" />
       <module name="Bridgelabz-Training-1Y" />
@@ -95,6 +96,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
