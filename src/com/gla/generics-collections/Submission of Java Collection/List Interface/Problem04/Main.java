@@ -1,4 +1,4 @@
-package com.gla.generics-collections.java_collection_assignment.problem04_remove_duplicates;
+package com.gla.generics-collections.java_collection_assignment.remove_duplicates;
 
 import java.util.*;
 
