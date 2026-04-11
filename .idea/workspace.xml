@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/ElectronicProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/ElectronicProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario Based Problems/ E-Commerce Product Categorization/src/com/gla/ProductTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="74096dd4-c51e-4a16-a2ac-a79897b80db7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
