@@ -1,4 +1,4 @@
-package com.gla.generics-collections.map_assignment.problem16_banking_system;
+package com.gla.generics-collections.map_assignment.banking_system;
 
 public class Main {
     public static void main(String[] args) {
