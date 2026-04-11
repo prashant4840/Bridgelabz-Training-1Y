@@ -8,12 +8,12 @@ public class NthFromEnd {
         Iterator<T> fast = list.iterator();
         Iterator<T> slow = list.iterator();
 
-        // move fast n steps
+
         for(int i=0;i<n;i++){
             if(fast.hasNext()) fast.next();
         }
 
-        // move both
+
         while(fast.hasNext()){
             fast.next();
             slow.next();

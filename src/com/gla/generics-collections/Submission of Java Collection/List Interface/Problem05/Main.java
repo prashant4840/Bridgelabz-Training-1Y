@@ -7,6 +7,6 @@ public class Main {
 
         LinkedList<String> list = new LinkedList<>(Arrays.asList("A","B","C","D","E"));
 
-        System.out.println(NthFromEnd.find(list,2)); // D
+        System.out.println(NthFromEnd.find(list,2));
     }
 }
