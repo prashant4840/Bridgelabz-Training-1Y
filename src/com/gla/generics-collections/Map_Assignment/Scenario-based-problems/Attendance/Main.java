@@ -1,4 +1,4 @@
-package com.gla.generics-collections.map_assignment.problem11_attendance;
+package com.gla.generics-collections.map_assignment.attendance;
 
 import java.util.*;
 
