@@ -16,7 +16,6 @@ public class Main {
             highPriority.add(p1);
         }
 
-        // Process high priority
         while(!highPriority.isEmpty()){
             completed.add(highPriority.poll());
         }
