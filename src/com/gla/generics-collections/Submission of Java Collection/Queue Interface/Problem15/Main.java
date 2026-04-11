@@ -10,6 +10,6 @@ public class Main {
         cb.add(3);
         cb.add(4);
 
-        cb.display(); // 2 3 4 (logical overwrite)
+        cb.display();
     }
 }
