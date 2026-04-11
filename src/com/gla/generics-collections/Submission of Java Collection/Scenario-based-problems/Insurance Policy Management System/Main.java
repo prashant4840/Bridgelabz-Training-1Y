@@ -11,7 +11,7 @@ public class Main {
         Policy p1 = new Policy(1,"A", LocalDate.now().plusDays(10),"Health",5000);
         Policy p2 = new Policy(2,"B", LocalDate.now().plusDays(40),"Auto",3000);
         Policy p3 = new Policy(3,"C", LocalDate.now().plusDays(5),"Health",7000);
-        Policy p4 = new Policy(1,"Duplicate", LocalDate.now(),"Home",2000); // duplicate
+        Policy p4 = new Policy(1,"Duplicate", LocalDate.now(),"Home",2000);
 
         List<Policy> list = Arrays.asList(p1,p2,p3,p4);
 
