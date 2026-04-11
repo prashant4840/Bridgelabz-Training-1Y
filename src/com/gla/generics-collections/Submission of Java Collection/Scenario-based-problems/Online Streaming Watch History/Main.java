@@ -15,7 +15,6 @@ public class Main {
         allMovies.add(m1);
         upNext.add(m1);
 
-        // Watch movie
         Movie current = upNext.poll();
         history.push(current);
         genres.add(current.genre);
