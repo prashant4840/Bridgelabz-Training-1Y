@@ -1,4 +1,4 @@
-package com.gla.generics-collections.map_assignment.problem12_country_lookup;
+package com.gla.generics-collections.map_assignment.country_lookup;
 
 import java.util.*;
 
