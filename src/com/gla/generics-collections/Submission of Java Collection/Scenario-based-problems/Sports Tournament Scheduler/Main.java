@@ -17,11 +17,10 @@ public class Main {
 
         matches.add(new Match("Match1"));
 
-        // Process match
+
         Match m = matches.poll();
         results.add(new Result("Win"));
 
-        // Leaderboard
         for(Team t : leaderboard){
             System.out.println("Points: " + t.points);
         }
