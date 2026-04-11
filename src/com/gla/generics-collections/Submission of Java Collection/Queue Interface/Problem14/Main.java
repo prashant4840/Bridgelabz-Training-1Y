@@ -8,6 +8,6 @@ public class Main {
         s.push(2);
         s.push(3);
 
-        System.out.println(s.pop()); // 3
+        System.out.println(s.pop());
     }
 }
