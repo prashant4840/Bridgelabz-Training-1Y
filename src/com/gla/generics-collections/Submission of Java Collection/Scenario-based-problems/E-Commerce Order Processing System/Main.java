@@ -8,7 +8,7 @@ public class Main {
         List<Order> orders = new ArrayList<>();
         orders.add(new Order(1));
         orders.add(new Order(2));
-        orders.add(new Order(1)); // duplicate
+        orders.add(new Order(1));
 
         Set<Order> unique = new HashSet<>(orders);
 
