@@ -20,6 +20,6 @@ public class Main {
 
         discharged.push(treated);
 
-        admitted.add(discharged.pop()); // re-admit
+        admitted.add(discharged.pop());
     }
 }
