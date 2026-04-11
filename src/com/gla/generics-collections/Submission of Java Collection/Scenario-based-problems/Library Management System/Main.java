@@ -10,21 +10,21 @@ public class Main {
         Queue<Book> issueQueue = new LinkedList<>();
         Stack<Book> returnedStack = new Stack<>();
 
-        // Add books
+
         Book b1 = new Book("Java");
         books.add(b1);
 
-        // Register members
+
         members.add("M1");
 
-        // Issue book
+
         issueQueue.add(b1);
         Book issued = issueQueue.poll();
 
-        // Return book
+
         returnedStack.push(issued);
 
-        // Re-issue last returned
+
         System.out.println("Re-issued: " + returnedStack.pop().name);
     }
 }
