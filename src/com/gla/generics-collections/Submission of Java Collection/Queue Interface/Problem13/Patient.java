@@ -11,6 +11,6 @@ public class Patient implements Comparable<Patient>{
 
     @Override
     public int compareTo(Patient p){
-        return p.severity - this.severity; // higher severity first
+        return p.severity - this.severity;
     }
 }
