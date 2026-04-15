@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class HexColorValidation {
     public static void main(String[] args) {
 
