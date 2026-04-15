@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class CensorWords {
     public static void main(String[] args) {
 
