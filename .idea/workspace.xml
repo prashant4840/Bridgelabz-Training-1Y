@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/InvoiceCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/InvoiceCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/NameUppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/NameUppercase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/NotificationFiltering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/NotificationFiltering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/PatientIDPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/PatientIDPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/ProductSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/ProductSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/SmartHomeLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/lembda problem/SmartHomeLighting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/DoctorAvailability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/DoctorAvailability.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/EmailNotifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/EmailNotifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/ExpiringMemberships.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/ExpiringMemberships.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/InsuranceClaimAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/InsuranceClaimAnalysis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/SensorReadings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/SensorReadings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/StockPriceLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/StockPriceLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TopTrendingMovies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TopTrendingMovies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TransactionLogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TransactionLogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TransformNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/TransformNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/WelcomeMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/stream-api/stream-api/WelcomeMessage.java" afterDir="false" />
-    </list>
+    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
