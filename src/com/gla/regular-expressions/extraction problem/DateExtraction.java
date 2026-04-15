@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class DateExtraction {
     public static void main(String[] args) {
 
