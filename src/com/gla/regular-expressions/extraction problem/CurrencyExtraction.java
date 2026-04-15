@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class CurrencyExtraction {
     public static void main(String[] args) {
 
