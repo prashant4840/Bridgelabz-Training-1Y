@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class EmailExtraction {
     public static void main(String[] args) {
 
