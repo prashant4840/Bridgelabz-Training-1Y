@@ -24,7 +24,6 @@ public class ProductSorting {
         products.add(new Product("Laptop", 50000, 4.8));
         products.add(new Product("Tablet", 15000, 4.2));
 
-        // Sort by price
         products.sort((p1, p2) -> Double.compare(p1.price, p2.price));
 
         System.out.println("Sorted by Price:");
