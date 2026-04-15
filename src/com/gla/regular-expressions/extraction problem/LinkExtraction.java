@@ -1,5 +1,4 @@
 import java.util.regex.*;
-
 public class LinkExtraction {
     public static void main(String[] args) {
 
