@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/BankingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/jdbc/BankingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/jdbc/CustomerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/jdbc/EmployeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/jdbc/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/jdbc/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/jdbc/ProductManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
