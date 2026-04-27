@@ -1,0 +1,18 @@
+CREATE DATABASE IF NOT EXISTS library_db_final;
+
+USE library_db_final;
+
+CREATE TABLE IF NOT EXISTS books (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(100),
+    author VARCHAR(100),
+    available BOOLEAN DEFAULT TRUE
+);
+
+CREATE TABLE IF NOT EXISTS students (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100)
+);
+
+
+SELECT * FROM books;
