@@ -1,21 +1,24 @@
-class DeliveryCheckpoint extends Checkpoint {
+public class DeliveryCheckpoint extends Checkpoint {
 
-    public DeliveryCheckpoint(String id, String loc, double dist, int expected, int actual) {
-        super(id, loc, dist, expected, actual);
+    public DeliveryCheckpoint() { super(); }
+
+    public DeliveryCheckpoint(String checkpointId, String locationName,
+                              double distanceFromLast,
+                              double expectedDuration, double actualDuration) {
+        super(checkpointId, locationName, distanceFromLast,
+                expectedDuration, actualDuration);
     }
 
-    boolean isCritical() {
-        return true;
-    }
+    @Override
+    public boolean isCritical() { return true; }
 
-    String getType() {
-        return "DeliveryCheckpoint";
-    }
+    @Override
+    public String getType() { return "DeliveryCheckpoint"; }
 
-    double calculatePenalty() {
-        if (isDelayed()) {
-            return (actualDuration - expectedDuration) * 2;
-        }
-        return 0;
+    @Override
+    public double calculatePenalty() {
+        if (!isDelayed()) return 0.0;
+        return getDelay() * 2.0;
     }
 }
+

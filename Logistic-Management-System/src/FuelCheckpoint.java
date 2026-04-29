@@ -1,21 +1,23 @@
-class FuelCheckpoint extends Checkpoint {
+public class FuelCheckpoint extends Checkpoint {
 
-    public FuelCheckpoint(String id, String loc, double dist, int expected, int actual) {
-        super(id, loc, dist, expected, actual);
+    public FuelCheckpoint() { super(); }
+
+    public FuelCheckpoint(String checkpointId, String locationName,
+                          double distanceFromLast,
+                          double expectedDuration, double actualDuration) {
+        super(checkpointId, locationName, distanceFromLast,
+                expectedDuration, actualDuration);
     }
 
-    boolean isCritical() {
-        return true;
-    }
+    @Override
+    public boolean isCritical() { return true; }
 
-    String getType() {
-        return "FuelCheckpoint";
-    }
+    @Override
+    public String getType() { return "FuelCheckpoint"; }
 
-    double calculatePenalty() {
-        if (isDelayed()) {
-            return 10;
-        }
-        return 0;
+    @Override
+    public double calculatePenalty() {
+        return isDelayed() ? 10.0 : 0.0;
     }
 }
+

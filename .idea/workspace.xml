@@ -46,26 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongTail.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.gla.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.ArmstrongRecursion.executor": "Run",
+    "Application.ArmstrongTail.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.com.gla.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.289246",
+    "project.structure.side.proportion": "0.4912892"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/gla/LibraryManagement" />

@@ -1,22 +1,37 @@
-class Driver {
-    String driverId;
-    String name;
+public class Driver {
 
-    public Driver(String id, String name) {
-        this.driverId = id;
-        this.name = name;
+    private String driverId;
+    private String name;
+    private RouteLinkedList<Checkpoint> routeHistory;
+
+    public Driver() {
+        this.routeHistory = new RouteLinkedList<>();
     }
 
-    void printSummary() {
-        System.out.println("Driver: " + driverId + " – " + name);
-        System.out.println("Route Summary:");
+    public Driver(String driverId, String name) {
+        this.driverId = driverId;
+        this.name = name;
+        this.routeHistory = new RouteLinkedList<>();
+    }
 
-        double score = distance - penalty;
+    public double getRouteScore() {
+        double totalDistance = routeHistory.computeTotalDistance();
+        double totalPenalty = routeHistory.computeTotalPenalty();
+        return totalDistance - totalPenalty;
+    }
 
-        System.out.println("Total Distance: " + distance + " km");
-        System.out.println("Total Penalty: " + penalty);
-        System.out.println("Route Score: " + score);
+    public String getDriverId() { return driverId; }
+    public void setDriverId(String id) { this.driverId = id; }
 
-        System.out.println("Critical Route Check: " + "All required checkpoints present" + "Missing critical checkpoints");
+    public String getName() { return name; }
+    public void setName(String name) { this.name = name; }
+
+    public RouteLinkedList<Checkpoint> getRouteHistory() { return routeHistory; }
+    public void setRouteHistory(RouteLinkedList<Checkpoint> rh) { this.routeHistory = rh; }
+
+    @Override
+    public String toString() {
+        return "Driver: " + driverId + " – " + name;
     }
 }
+

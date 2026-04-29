@@ -1,21 +1,25 @@
-class RestCheckpoint extends Checkpoint {
+public class RestCheckpoint extends Checkpoint {
 
-    public RestCheckpoint(String id, String loc, double dist, int expected, int actual) {
-        super(id, loc, dist, expected, actual);
+    public RestCheckpoint() { super(); }
+
+    public RestCheckpoint(String checkpointId, String locationName,
+                          double distanceFromLast,
+                          double expectedDuration, double actualDuration) {
+        super(checkpointId, locationName, distanceFromLast,
+                expectedDuration, actualDuration);
     }
 
-    boolean isCritical() {
-        return false;
-    }
+    @Override
+    public boolean isCritical() { return false; }
 
-    String getType() {
-        return "RestCheckpoint";
-    }
+    @Override
+    public String getType() { return "RestCheckpoint"; }
 
-    double calculatePenalty() {
-        if (isDelayed() && (actualDuration - expectedDuration) > 30) {
-            return (actualDuration - expectedDuration) * 0.5;
+    @Override
+    public double calculatePenalty() {
+        if (getDelay() > 30.0) {
+            return getDelay() * 0.5;
         }
-        return 0;
+        return 0.0;
     }
 }
